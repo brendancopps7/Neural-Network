@@ -1,1 +1,3 @@
-README.txt
+This is a code sample of a general neural network written in matlab. This was an assignment for a Machine Learning course that I took from Jan 2018 - March 2018. The Assignment was to create a general neural network with one middle layer of variable size and a output layer of variable size. 
+For this project I used the CTG dataset which concerns 2126 rows of data with 23 features each. A full explanation of the dataset can be found here: https://archive.ics.uci.edu/ml/datasets/cardiotocography
+More code samples can be found on my github: https://github.com/brendancopps7
